@@ -1,0 +1,48 @@
+.over{
+  z-index:5000;
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%, 70%);
+}
+
+.check{
+
+}
+
+.vertmid{
+  position: fixed;
+  top:23%;
+  right: 5%;
+  background-color: green;
+}
+
+.bg{
+  position: absolute center;
+}
+
+.img-responsive{
+  width:100%;
+}
+
+.ministerslorry{
+  left:0;
+  margin: auto;
+  width:100%;
+}
+
+html{
+  scroll-behaviour: smooth;
+}
+
+.redbg{
+  background-color:#C9112B;
+  color: white;
+}
+
+.keyissues{
+  margin-top:10em;
+}
+
+.textstart{
+  margin-top:2em;
+}
